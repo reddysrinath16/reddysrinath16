@@ -12,7 +12,7 @@ Welcome to my Github page!
 - ☀️ Learning and Developing Machine Learning based projects in Python.
 - ⌚ Extracting | Loading | Transforming , Cleaning Data To ✍️Find KPI's  and ⚡Insights to make 💡 Data-Driven Decision (MS-Powerbi - Tableau)
 - 👨🏽‍💻 I’m currently working on improving my techskill
-- 💬 Watching Anime 😸😸 While the Model is Training or Predicing
+- 💬 Watching Anime 😸😸 While the Model is Training itself
 
   
  <h3> 🛠 &nbsp;Tech Stack</h3>
